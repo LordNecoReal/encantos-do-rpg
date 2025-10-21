@@ -1,0 +1,29 @@
+
+/* Cores usando classes: */
+#corVermelha {
+    color: red;
+
+}
+
+.corLaranja{
+color: orange;
+}
+
+
+.corVerde {
+    color: green;
+}
+
+
+.corRoxa {
+    color: purple;
+}
+
+/* Cores usando id: */
+
+#corAzul{
+
+    color: blue
+}
+
+
